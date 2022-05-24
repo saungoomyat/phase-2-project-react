@@ -1,0 +1,228 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Bulldog",
+      "life": "8 – 10 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6ZeZnZptKOd8ZRCXjZE13dQoxtaWnfi0sDfLYpW-rw&s"
+    },
+    {
+      "id": 2,
+      "name": "Labrador Retriever",
+      "life": "10 – 12 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1FdiUNjB1xj31sc5JTD5igQsr5YzqJmvFoKp4FZN5g&s"
+    },
+    {
+      "id": 3,
+      "name": "German Shepherd",
+      "life": "9 – 13 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UJM9ZDGV3D0BdSOjvYV8wMA4c94UYJEGsRTGx583ig&s"
+    },
+    {
+      "id": 4,
+      "name": "Poodle",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdMwpez9WmGFgvFUQG2tMu6cMyPGU_bLZFDeNq4LKJA&s"
+    },
+    {
+      "id": 5,
+      "name": "Golden Retriever",
+      "life": "10 – 12 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhwVJiUkPgl1EuhPr6_yE8lGRSkXa2_Vm2L91bAO6ISg&s"
+    },
+    {
+      "id": 6,
+      "name": "Chihuahua",
+      "life": "12 – 20 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBQraUBNBU7CxpDPJym-FtKS4G5blHzOCYIB4bmb4MQ&s"
+    },
+    {
+      "id": 7,
+      "name": "French Bulldog",
+      "life": "10 – 14 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGCXcZR-iXGEUDHuh4OAyK7M1W6eIkuVrWcTDsBersQ&s"
+    },
+    {
+      "id": 8,
+      "name": "Bichon Frise",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_LmoxaGvc1hUWhOH1Sxjnn9m4kwzOSG6EP3Scu5O2Q&s"
+    },
+    {
+      "id": 9,
+      "name": "Boxer",
+      "life": "10 – 12 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuf4jso3FhNdLajz5p1RNMiKPJHWSIFsZNdzORjjaQg&s"
+    },
+    {
+      "id": 10,
+      "name": "Border Collie",
+      "life": "10 – 17 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCpyg7LOQUyvDaz4aUCNJnjjCUXtqTmmIQmp1PYYT-w&s"
+    },
+    {
+      "id": 11,
+      "name": "Siberian Husky",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncu45hS6B4dMNGpQE_v3Q6A1l6wPlEJ_PzBGNzx7T4w&s"
+    },
+    {
+      "id": 12,
+      "name": "Pug",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9dffDUwX4AtEgdUHW3m4EDTKgtEcl6tz3kfX7jPtxtw&s"
+    },
+    {
+      "id": 13,
+      "name": "American Staffordshire Terrier",
+      "life": "12 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIppVtflx4shlQiOZmRX2PBi-diooH5INj7mL3Q1ZAw&s"
+    },
+    {
+      "id": 14,
+      "name": "Boston Terrier",
+      "life": "13 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZN3ehnNtUa_XxzqdKct9EAiwRYIjNFB6z5M3MITkAA&s"
+    },
+    {
+      "id": 15,
+      "name": "Cavalier King Charles Spaniel",
+      "life": "9 – 14 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCR-YPck6OFaM4m84STOqzvdkQgPIndQwoARO9ItRxXg&s"
+    },
+    {
+      "id": 16,
+      "name": "Pomeranian",
+      "life": "12 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIKnx12RJiQsbQMjfo8z7EaLs1MBSUFUT2PyCSHJT6QA&s"
+    },
+    {
+      "id": 17,
+      "name": "Yorkshire Terrier",
+      "life": "13 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlgpaqHBkS7897sOYcKe8JCTo02zOMi_0r7uN1PbM&s"
+    },
+    {
+      "id": 18,
+      "name": "Bull Terrier",
+      "life": "10 – 14 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO4LBxm5seZ6y93jgb79832IRjkAC9PT2jLAUpy1H3pA&s"
+    },
+    {
+      "id": 19,
+      "name": "Australian Shepherd",
+      "life": "13 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRaqD-JeFhwmWuotnzZ6avoYXxk_mJkAwUs1m_FD0uw&s"
+    },
+    {
+      "id": 20,
+      "name": "English Cocker Spaniel",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_hxhBQUHu_a-5JNUdsPnMhx1dibHeDDM8i-h0lnv1g&s"
+    },
+    {
+      "id": 21,
+      "name": "Basset Hound",
+      "life": "10 – 12 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Q8ccRgX03biIrY9juwDji-1Hgv3mFhA5I7QSFur3_A&s"
+    },
+    {
+      "id": 22,
+      "name": "Afghan Hound",
+      "life": "12 – 14 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNnCwc4d07ohYxJnMLzl3y-C5R64mtKA6OjFT0AgK_w&s"
+    },
+    {
+      "id": 23,
+      "name": "Great Dane",
+      "life": "8 – 10 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7_tvA_kE1iC-1AKCgAXYcjnpRmfh56BO2w5GMZxq&s"
+    },
+    {
+      "id": 24,
+      "name": "Maltese dog",
+      "life": "12 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_PvyVrYQkfEH8Yyu9WPGR8bReXkO56RdPmp9dlO1GA&s"
+    },
+    {
+      "id": 25,
+      "name": "American Eskimo Dog",
+      "life": "13 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0vH-aAzjgzo6wppFN1RzZD-igiO6I0wj9mPgy0xBYg&s"
+    },
+    {
+      "id": 26,
+      "name": "Chow Chow",
+      "life": "9 – 15 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxBcxdQWfnNQwvtndeAXxeDZEulYuiNNZt4o_foZafw&s"
+    },
+    {
+      "id": 27,
+      "name": "Shih Tzu",
+      "life": "10 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91-7YyZQ0Ey_qOzCmtePUkDB_t7w9x_PXL1GtgWQ5Nw&s"
+    },
+    {
+      "id": 28,
+      "name": "Dachshund",
+      "life": "12 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZQA1Px4OwF0fG8puGu-f2pU3spgNn7fmgirl6dkJaA&s"
+    },
+    {
+      "id": 29,
+      "name": "Affenpinscher",
+      "life": "12 – 14 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPNVOtqRsvKbKMy5e3rxYDYTr-DbCSVV_9Lj6tse1JA&s"
+    },
+    {
+      "id": 30,
+      "name": "Basenji",
+      "life": "12 – 16 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5SFgREl5PDXueRom1qJKITLTyP0WAQrhVZyLfmjZ&s"
+    },
+    {
+      "id": 31,
+      "name": "Dobermann",
+      "life": "10 – 13 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqkUxhPL_QPhYC9wa6vbLWGxiN7F4TYYLkNjY3dsPwNQ&s"
+    },
+    {
+      "id": 32,
+      "name": "Airedale Terrier",
+      "life": "10 – 12 years",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlv7cjWZxjdWorZPOglfjcZCTQ9sTHQ941_omc2qZiXg&s"
+    },
+    {
+      "dog": {
+        "name": "Dalmatian",
+        "life": "10 – 13 years",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Wz5N75eyuhtQPcL2RwylM-CYi8CWOeORWLbyx7vzmA&s"
+      },
+      "id": 33
+    },
+    {
+      "dog": {
+        "name": "Dalmatian",
+        "life": "10 – 13 years",
+        "imageUrl": "https://www.google.com/search?q=Dalmatian&rlz=1C1CHBF_enSG847SG847&stick=H4sIAAAAAAAAAE1SPYvUUBRNBmbIRBc2u4sMUy1TDWORvJevHUFmwW0sRBQLK0O-M_meJG6SsVD8BWJhYafVgP4AXUF3BQtXEbHYRrAQEay2VKtxls3NWL3Deeeee-57l2r2aDZgOZy4Oidi2ojsTS0xTSM9JNsnF8jjs8khSZ1gLxD1GvJWBZHhyiDOOB5XGHsWFoCPeUNe8nlSlWLd5cHQceqWvm97daWYGJVERq4LJkNNTyva1_JlH2zEgBW7UABLuVcAljM-hujIR-CYazY0CpMhOPJbecZDZSpbEACFuQSToiIrNLAphkadXfZzmFp0OIer7OO8DoljZEArIRC0SYWleIKTZXirrEqdXIFXwnrpS1BaFEiuJLrAZTCey8HUgoVLHQynAifUv-FgB_gtXIKeF3mnflWnCEGDp6IMPjixpiJg2-JgKGlXSRea__aq_h4vl7-TH8gzq7_-fFvvHpAPn78_IvdIun3FDDQzSa9aa32avhT5vqln4yhc63Y79DlWrwl2saDK6YL27uBbe18efWrdZHY_zucr765tdxHzavbs9oFxNBowdGsnCtRxyGxc_Pnmx_x4NFinqRtqEYVRUDIvHn--6_4-HvU6zIgl7s2enN_uNDeJPoEuv1whvv5t7g-I66ebGQfWPtm4_3r2tkVR5CqBGxRxodFvTBfn2afN9o7qB2o2VsMHLfIflFEVC1ADAAA&sxsrf=ALiCzsZkXJaZt3bkUKtctUn7SFCNfXiNlQ:1653402846605&tbm=isch&source=iu&ictx=1&vet=1&fir=rS58-vacPvMYuM%252CmxmPqpzyojQrdM%252C_%253BjraB4vuSo3NWtM%252CDT6h4_Y2Y9E4OM%252C_%253BHqxqgCBZMuRnkM%252C8Ot4vhMW3G9GLM%252C_%253BlrlaUdnSzMDY-M%252C1XYLwZTnmVnSCM%252C_%253BwcCbzAEI9SyvKM%252Cth7U0O01My691M%252C_&usg=AI4_-kRbHy35q3Rg46W1Ne_MhRTr3DKLjg&sa=X&ved=2ahUKEwil_dzKrfj3AhVCU98KHXmVCOQQ_h16BAhsEAE#imgrc=jraB4vuSo3NWtM"
+      },
+      "id": 34
+    },
+    {
+      "dog": {
+        "name": "Dalmatian",
+        "life": "10 – 13 years",
+        "imageUrl": "https://www.google.com/search?q=Dalmatian&rlz=1C1CHBF_enSG847SG847&stick=H4sIAAAAAAAAAE1SPYvUUBRNBmbIRBc2u4sMUy1TDWORvJevHUFmwW0sRBQLK0O-M_meJG6SsVD8BWJhYafVgP4AXUF3BQtXEbHYRrAQEay2VKtxls3NWL3Deeeee-57l2r2aDZgOZy4Oidi2ojsTS0xTSM9JNsnF8jjs8khSZ1gLxD1GvJWBZHhyiDOOB5XGHsWFoCPeUNe8nlSlWLd5cHQceqWvm97daWYGJVERq4LJkNNTyva1_JlH2zEgBW7UABLuVcAljM-hujIR-CYazY0CpMhOPJbecZDZSpbEACFuQSToiIrNLAphkadXfZzmFp0OIer7OO8DoljZEArIRC0SYWleIKTZXirrEqdXIFXwnrpS1BaFEiuJLrAZTCey8HUgoVLHQynAifUv-FgB_gtXIKeF3mnflWnCEGDp6IMPjixpiJg2-JgKGlXSRea__aq_h4vl7-TH8gzq7_-fFvvHpAPn78_IvdIun3FDDQzSa9aa32avhT5vqln4yhc63Y79DlWrwl2saDK6YL27uBbe18efWrdZHY_zucr765tdxHzavbs9oFxNBowdGsnCtRxyGxc_Pnmx_x4NFinqRtqEYVRUDIvHn--6_4-HvU6zIgl7s2enN_uNDeJPoEuv1whvv5t7g-I66ebGQfWPtm4_3r2tkVR5CqBGxRxodFvTBfn2afN9o7qB2o2VsMHLfIflFEVC1ADAAA&sxsrf=ALiCzsZkXJaZt3bkUKtctUn7SFCNfXiNlQ:1653402846605&tbm=isch&source=iu&ictx=1&vet=1&fir=rS58-vacPvMYuM%252CmxmPqpzyojQrdM%252C_%253BjraB4vuSo3NWtM%252CDT6h4_Y2Y9E4OM%252C_%253BHqxqgCBZMuRnkM%252C8Ot4vhMW3G9GLM%252C_%253BlrlaUdnSzMDY-M%252C1XYLwZTnmVnSCM%252C_%253BwcCbzAEI9SyvKM%252Cth7U0O01My691M%252C_&usg=AI4_-kRbHy35q3Rg46W1Ne_MhRTr3DKLjg&sa=X&ved=2ahUKEwil_dzKrfj3AhVCU98KHXmVCOQQ_h16BAhsEAE#imgrc=jraB4vuSo3NWtM"
+      },
+      "id": 35
+    },
+    {
+      "dog": {
+        "name": "Dalmatian",
+        "life": "10 – 13 years",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Wz5N75eyuhtQPcL2RwylM-CYi8CWOeORWLbyx7vzmA&s"
+      },
+      "id": 36
+    }
+  ]
+}
